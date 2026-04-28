@@ -6,18 +6,18 @@
 
 ## Hey 👋 I'm Aarsh Singh
 
-🚀 Full Stack Developer building scalable, production-ready web applications  
+🚀 MERN Stack Developer building scalable, production-ready web applications  
 ⚡ Focused on real-time systems and performance-driven architecture
 
-I build responsive React frontends and robust backend systems using Node.js, Express, and MongoDB, with a focus on real-time features and performance-driven architecture.
+I design and develop responsive React frontends and robust backend systems using Node.js, Express, and MongoDB. My focus is on building real-world applications with efficient data handling, real-time features, and scalable architecture.
 
 ⚡ Highlights
 - Built full-stack apps with real-time systems (chat, notifications)
 - Integrated secure payment workflows using Stripe
-- Focused on scalable architecture and clean code practices
+- Designed scalable architectures with optimized state and API handling
 
-🌱 Currently exploring  
-System design, performance optimization, and production-level engineering
+🌱 Currently focused on  
+- Data structures & algorithms, system design principles, performance optimization, and scalable production architectures
 
 ---
 
