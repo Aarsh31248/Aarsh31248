@@ -7,7 +7,7 @@
 ## Hey 👋 I'm Aarsh Singh
 
 🚀 MERN Stack Developer building scalable, production-ready web applications  
-⚡ Focused on real-time systems and performance-driven architecture
+⚡ Focused on real-time systems, scalable backend architecture, and modern frontend experiences
 
 I design and develop responsive React frontends and robust backend systems using Node.js, Express, and MongoDB. My focus is on building real-world applications with efficient data handling, real-time features, and scalable architecture.
 
@@ -42,7 +42,9 @@ I design and develop responsive React frontends and robust backend systems using
 ![Redis](https://img.shields.io/badge/redis-DD0031?style=flat&logo=redis&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/redux-593d88?style=flat&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat)
 ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSONwebtokens)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-F05033?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
@@ -84,7 +86,7 @@ Full-stack social platform with real-time interactions and scalable relationship
 
 Real-time communication platform focused on low-latency updates and seamless interaction.
 
-- Built a full-stack real-time platform enabling users to connect, chat, and video call seamlessly  
+- Built a full-stack real-time platform enabling users to connect, chat, and video call in real time
 - Implemented a social graph system with friend requests, recommendations, and connection management  
 - Integrated Stream APIs for scalable real-time messaging and video communication  
 - Solved production-level challenges including authentication, CORS, and cross-domain session handling    
@@ -104,6 +106,22 @@ Production-oriented system for managing employee lifecycle and HR workflows.
 - Developed a responsive React frontend with real-time UI updates, clean component structure, and seamless API integration  
 
 **Tech:** React, Vite, Tailwind CSS, React Router, Axios, Node.js, Express, MongoDB, Mongoose, JWT, bcrypt, Inngest, Nodemailer 
+
+---
+
+### 💬 Talkly — Real-Time Chat Platform
+
+🔗 [Live Demo](https://aarsh-talkly.onrender.com/) | 🔗 [GitHub](https://github.com/Aarsh31248/Talkly)
+
+Real-time communication platform built with authenticated WebSocket architecture and modern chat workflows.
+
+- Built a full-stack real-time chat platform using the MERN stack with instant messaging, online presence tracking, and live UI synchronization
+- Implemented authenticated WebSocket communication using Socket.IO with JWT-based sessions and protected socket middleware
+- Designed scalable real-time communication workflows including active user tracking, instant message delivery, and dynamic conversation rendering
+- Integrated media sharing, Cloudinary-based profile uploads, Arcjet-based rate limiting, and bot protection for secure API handling
+- Developed a responsive glassmorphism-inspired frontend with Zustand state management, animated interactions, notification sounds, and immersive chat UX
+
+**Tech:** React, Vite, Tailwind CSS, DaisyUI, Zustand, React Router, Axios, Node.js, Express, MongoDB, Mongoose, Socket.IO, JWT, Cloudinary, Arcjet, Resend
 
 ---
 
