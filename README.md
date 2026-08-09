@@ -125,14 +125,6 @@ Real-time communication platform built with authenticated WebSocket architecture
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Aarsh31248&theme=dark&hide_border=false" width="600" />
-</p>
-
----
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Aarsh31248/Aarsh31248/main/githubgif.gif" width="1000" />
 </p>
