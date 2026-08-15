@@ -1,9 +1,3 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Aarsh31248/Aarsh31248/main/banner.png" width="100%" alt="banner" />
-</p>
-
----
-
 ## Hey 👋 I'm Aarsh Singh
 
 🚀 MERN Stack Developer building scalable, production-ready web applications  
