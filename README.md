@@ -1,121 +1,99 @@
-## Hey 👋 I'm Aarsh Singh
+# Hey 👋 I'm Aarsh Singh
 
-🚀 MERN Stack Developer building scalable, production-ready web applications  
-⚡ Focused on real-time systems, scalable backend architecture, and modern frontend experiences
+🚀 **Full Stack Developer** building production-ready web applications, AI-powered systems, real-time platforms, and scalable architectures.
 
-I design and develop responsive React frontends and robust backend systems using Node.js, Express, and MongoDB. My focus is on building real-world applications with efficient data handling, real-time features, and scalable architecture.
+I build modern frontend experiences and robust backend systems, with a focus on **scalability, real-time communication, distributed systems, AI integrations, and performance**.
 
-⚡ Highlights
-- Built full-stack apps with real-time systems (chat, notifications)
-- Integrated secure payment workflows using Stripe
-- Designed scalable architectures with optimized state and API handling
+### ⚡ What I Work With
 
-🌱 Currently focused on  
-- Data structures & algorithms, system design principles, performance optimization, and scalable production architectures
+- 🧩 Full-stack applications with modern frontend and backend architectures
+- 🤖 AI-powered features, intelligent workflows, and AI integrations
+- ⚡ Real-time communication and event-driven systems
+- 🏗️ Microservices, caching, databases, and scalable backend systems
+- 🎯 Responsive, accessible, and production-ready user experiences
 
----
-
-## 🌐 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/aarshsingh)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:aarshsinghas123@gmail.com)
+🌱 **Currently focused on:** Data Structures & Algorithms, System Design, Performance Optimization, and Scalable Production Architectures.
 
 ---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/aarshsingh)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:aarshsinghas123@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Aarsh31248)
 
 ## 💼 Portfolio
 
-🔗 [Check out my portfolio](https://aarshportfolio1.netlify.app/)
+🔗 [**aarshportfolio1.netlify.app**](https://aarshportfolio1.netlify.app/)
 
 ---
 
-## 🛠 Tech Stack
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-20232a?style=flat&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express-000000?style=flat&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-4ea94b?style=flat&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-DD0031?style=flat&logo=redis&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-593d88?style=flat&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSONwebtokens)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05033?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)
+## 🛠️ Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=111827)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=111827)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-443E38?style=flat-square)
+
+### Backend & Systems
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socketdotio&logoColor=white)
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+
+### Databases & Tools
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+### AI & Integrations
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white)
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
-### 🛒 ShopSizzle — Full Stack E-commerce Platform  
-🔗 [Live Demo](https://aarsh-shopsizzle.onrender.com/) | 🔗 [GitHub](https://github.com/Aarsh31248/ShopSizzle)  
+### 🛍️ TrendLama — AI-Powered Microservices Ecommerce
 
-Production-grade e-commerce platform with complete shopping workflows and secure transactions.
+A TypeScript-based ecommerce platform built with a **microservices architecture**, featuring separate customer and admin applications.
 
-- Built end-to-end flows including product discovery, cart management, and checkout  
-- Integrated Stripe with secure backend validation and automated order handling  
-- Designed a dynamic coupon system with validation, discount logic, and edge-case handling  
-- Implemented JWT authentication with Redis-backed session management and caching for performance  
+- Designed domain-oriented services for authentication, products, payments, orders, and support
+- Implemented **Apache Kafka** event-driven workflows across services
+- Used **Redis** for caching, inventory reservations, and rate limiting
+- Integrated **Stripe** payments, **Clerk** authentication, and verified payment workflows
+- Built real-time customer support with **Socket.IO**
+- Integrated **Gemini** for an authenticated AI shopping assistant
+- Containerized infrastructure with **Docker Compose** and organized the system as a **Turborepo monorepo**
 
-**Tech:** React, Zustand, Tailwind CSS, Node.js, Express, MongoDB, Redis, Stripe  
+**Tech:** Next.js, React, TypeScript, Node.js, PostgreSQL, Prisma, MongoDB, Mongoose, Redis, Apache Kafka, Socket.IO, Stripe, Clerk, Gemini, Docker, Turborepo
 
----
-
-### 🔗 PingUp — Social Networking Platform  
-🔗 [Live Demo](https://aarsh-pingup.vercel.app/) | 🔗 [GitHub](https://github.com/Aarsh31248/PingUp)  
-
-Full-stack social platform with real-time interactions and scalable relationship management.
-
-- Built user discovery, connection workflows, and personalized content feeds  
-- Implemented real-time messaging using Server-Sent Events (SSE) with instant updates  
-- Designed a social graph system for follow, requests, and bidirectional relationships  
-- Integrated Clerk authentication and event-driven workflows using Inngest  
-
-**Tech:** React, Redux Toolkit, Tailwind CSS, Node.js, Express, MongoDB, SSE, Clerk, Inngest  
+🔗 [GitHub Repository](https://github.com/Aarsh31248/microservices-ecommerce)
 
 ---
 
-### 🎥 Streamify — Real-time Video & Chat Platform  
-🔗 [Live Demo](https://streamify-lel1.onrender.com/) | 🔗 [GitHub](https://github.com/Aarsh31248/Streamify)  
+### 🔗 PingUp — Social Networking Platform
 
-Real-time communication platform focused on low-latency updates and seamless interaction.
+Full-stack social networking platform focused on user discovery, connections, personalized feeds, and real-time interactions.
 
-- Built a full-stack real-time platform enabling users to connect, chat, and video call in real time
-- Implemented a social graph system with friend requests, recommendations, and connection management  
-- Integrated Stream APIs for scalable real-time messaging and video communication  
-- Solved production-level challenges including authentication, CORS, and cross-domain session handling    
+- Built user discovery, connection workflows, and personalized content feeds
+- Implemented real-time messaging using **Server-Sent Events (SSE)**
+- Designed social graph workflows for follows, requests, and bidirectional relationships
+- Integrated **Clerk authentication** and event-driven workflows using **Inngest**
+- Built a responsive interface with modern state management and API integration
 
-**Tech:** React, Vite, Tailwind CSS, Zustand, Axios, Node.js, Express, MongoDB, JWT, Stream (Chat & Video), Vercel  
+**Tech:** React, Redux Toolkit, Tailwind CSS, Node.js, Express, MongoDB, SSE, Clerk, Inngest
 
----
-
-### 🏢 QuickEMS — Employee Management System  
-🔗 [Live Demo](https://aarshems.vercel.app/) | 🔗 [GitHub](https://github.com/Aarsh31248/EMS)  
-
-Production-oriented system for managing employee lifecycle and HR workflows.
-
-- Built a full-stack Employee Management System with role-based access (Admin/Employee) supporting employee lifecycle, attendance tracking, leave workflows, and payslip generation
-- Designed RESTful APIs using Express and MongoDB with JWT-based authentication and modular architecture (routes → controllers → models)
-- Implemented event-driven automation using Inngest for background workflows such as attendance reminders and leave approval notifications
-- Developed a responsive React frontend with real-time UI updates, clean component structure, and seamless API integration  
-
-**Tech:** React, Vite, Tailwind CSS, React Router, Axios, Node.js, Express, MongoDB, Mongoose, JWT, bcrypt, Inngest, Nodemailer 
-
----
-
-### 💬 Talkly — Real-Time Chat Platform
-
-🔗 [Live Demo](https://aarsh-talkly.onrender.com/) | 🔗 [GitHub](https://github.com/Aarsh31248/Talkly)
-
-Real-time communication platform built with authenticated WebSocket architecture and modern chat workflows.
-
-- Built a full-stack real-time chat platform using the MERN stack with instant messaging, online presence tracking, and live UI synchronization
-- Implemented authenticated WebSocket communication using Socket.IO with JWT-based sessions and protected socket middleware
-- Designed scalable real-time communication workflows including active user tracking, instant message delivery, and dynamic conversation rendering
-- Integrated media sharing, Cloudinary-based profile uploads, Arcjet-based rate limiting, and bot protection for secure API handling
-- Developed a responsive glassmorphism-inspired frontend with Zustand state management, animated interactions, notification sounds, and immersive chat UX
-
-**Tech:** React, Vite, Tailwind CSS, DaisyUI, Zustand, React Router, Axios, Node.js, Express, MongoDB, Mongoose, Socket.IO, JWT, Cloudinary, Arcjet, Resend
+🔗 [Live Demo](https://aarsh-pingup.vercel.app/) · [GitHub Repository](https://github.com/Aarsh31248/PingUp)
 
 ---
 
